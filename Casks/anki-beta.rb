@@ -1,10 +1,10 @@
 cask 'anki-beta' do
-    version '2.1.0beta4'
-    sha256 'c36d1e621af4a3864e672d8bdb93764bb9c82bb889637ea4d7ae8df52ab23fc4'
+    version '2.1.0beta15'
+    sha256 '43d366a896faf4f4ece46ae0ff5e4b33d89f0a5d4ba341592db800bcd2896f0c'
   
     url 'https://apps.ankiweb.net/downloads/beta/anki-2.1.0beta15.dmg'
     name 'Anki2-beta'
     homepage 'https://apps.ankiweb.net/'
-  
-    app 'Anki-beta15.app'
+
+    app 'Anki.app'
   end
