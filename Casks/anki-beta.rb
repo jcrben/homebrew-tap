@@ -1,8 +1,8 @@
 cask 'anki-beta' do
-    version '2.1.0beta15'
-    sha256 '43d366a896faf4f4ece46ae0ff5e4b33d89f0a5d4ba341592db800bcd2896f0c'
+    version '2.1.0beta37'
+    sha256 '2d9ddf3a24018a35f92ef675307e898071d03b27e8cbf306a7cdf94e53ddb78d'
   
-    url 'https://apps.ankiweb.net/downloads/beta/anki-2.1.0beta15.dmg'
+    url 'https://apps.ankiweb.net/downloads/beta/anki-2.1.0beta37.dmg'
     name 'Anki2-beta'
     homepage 'https://apps.ankiweb.net/'
 
